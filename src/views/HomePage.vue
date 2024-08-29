@@ -77,7 +77,4 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonButton, IonChi
   border-radius: 20px;
 }
 
-#container ion-searchbar.custom {
-  border-radius: 20px ;
-}
 </style>
